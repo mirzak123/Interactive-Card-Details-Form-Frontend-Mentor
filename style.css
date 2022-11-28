@@ -218,4 +218,20 @@ img {
         left: auto;
         right: -30%;
     }
+
+    .card-img-wrapper__cvc { 
+        font-size: 1.15rem;
+    }
+
+    .front-details__card-number {
+        font-size: 1.5rem;
+    }
+
+    .front-details__cardholder-name {
+        font-size: 1.25rem;
+    }
+
+    .front-details__exp-date {
+        font-size: 1.25rem;
+    }
 }
